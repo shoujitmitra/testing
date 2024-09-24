@@ -17,7 +17,7 @@ testExecutionSteps:
            expectedResult:
             - matchValue:
                 key: "average_download_speed"
-                minValue: "20"
+                minValue: "200"
             - matchValue:
                 key: "average_upload_speed"
                 minValue: "20"
