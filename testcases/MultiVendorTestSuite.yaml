@@ -1,5 +1,5 @@
 testCaseDescription: 'Create NE'
-testCaseId: 'USM-1'
+testCaseId: 'MultiVendorTestSuite'
 testPriority: 'P2'
 testCategory: 'Generic Validation'
 testType: 'GenericValidationAPI'
